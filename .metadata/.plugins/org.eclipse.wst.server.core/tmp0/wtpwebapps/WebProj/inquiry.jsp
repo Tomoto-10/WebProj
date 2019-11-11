@@ -12,9 +12,9 @@
 			名前:<input type="text" name="name"/><br>
 			お問い合わせの種類:<br>
 			<select name="qtype">
-				<option value="company">会社について</option>
-				<option value="probuct">製品について</option>
-				<option value="support">アフターサポートについて</option>
+            	<option value="company">会社について</option>
+          	 	<option value="product">製品について</option>
+       	     	<option value="support">アフターサポートについて</option>
 			</select>
 			<br>
 			お問い合わせ内容:
