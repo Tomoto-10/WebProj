@@ -1,6 +1,8 @@
 package com.internousdev.webproj.action;
 
-public class TestAction extends ActionSpport {
+import com.opensymphony.xwork2.ActionSupport;
+
+public class TestAction extends ActionSupport {
 	private String username;
 	private String password;
 
@@ -10,6 +12,10 @@ public class TestAction extends ActionSpport {
 	public String getUsername() {
 		return username;
 	}
+	public void setUsername(String username){
+		this.username = username;
+	}
+
 	public String getPassword() {
 		return password;
 	}
