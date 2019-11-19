@@ -1,6 +1,0 @@
-package com.internousdev.webproj.action;
-
-import com.opensypony.xwork2.ActionSupprt;
-public class TestAction {
-
-}
