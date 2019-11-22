@@ -7,7 +7,7 @@
 	<title>HelloStruts</title>
 	</head>
 	<body>
-		<h1>HelloStruts2!</h1>
+		<h1>HelloDtruts2!</h1>
 		<br>
 		<h3>MySQLと接続できます。</h3>
 	</body>
