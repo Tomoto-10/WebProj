@@ -14,7 +14,7 @@ public class DBConnector {
 	 */
 	private static String url = "jdbc:mysql://localhost/testdb";
 	/**
-	 * データベース接続ユーザー名
+	 * データベース接続ユーザ名
 	 */
 	private static String user = "root";
 	/**
